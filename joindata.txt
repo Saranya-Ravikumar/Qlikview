@@ -1,0 +1,17 @@
+pRODUCT sALES:
+ProductID,ProductCategory,SaleAmount
+4,Athletics,1212
+5,Personal Care,5211
+6,Hobbies & Creative Arts,1021
+7,Display Board,2177
+8,Game,1145
+9,soap,1012
+10,Beverages & Tobacco,2514
+PRODUCTLIST:
+ProductID,ProductCategory
+1,Outdoor Recreation
+2,Clothing
+3,Costumes & Accessories
+4,Athletics
+5,Personal Care
+6,Hobbies & Creative Arts
